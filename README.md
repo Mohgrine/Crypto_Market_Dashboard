@@ -56,7 +56,7 @@ This page presents historical cryptocurrency pricing and volume data. Key featur
 
 ### 📄 Page 3: Price Forecasting with ML & Statistical Models
 
-![Page 2 - Forecast](images/page 3.png)
+![Page 2 - Forecast](images/page3.png)
 
 This page contains **two forecasting models**, implemented directly within Power BI using **R and Python scripts**:
 
@@ -74,4 +74,26 @@ This page contains **two forecasting models**, implemented directly within Power
 ---
 
 ## 📁 Project Structure
+├── README.md
+├── dashboard.pbix # Power BI report file with video
+├── data/
+├── images/
+
+---
+
+## 📈 Conclusion
+
+This dashboard serves as a powerful tool for analyzing cryptocurrency markets. By combining time series models (ARIMA) with machine learning (Random Forest), it enables robust forecasting to support better investment planning and risk management.
+
+---
+
+## 📬 Contact
+
+**Grine Mohamed El Amine**  
+MSc in Data Science for Business  
+📧 [mgrine66@gmail.com](mailto:mgrine66@gmail.com)
+
+---
+
+> ⭐ *If you find this project helpful or inspiring, feel free to star the repo or fork it for your own use.*
 
