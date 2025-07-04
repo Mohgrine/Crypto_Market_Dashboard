@@ -58,7 +58,7 @@ This page presents historical cryptocurrency pricing and volume data. Key featur
 
 | Market Cap Forecast | BTC Price Forecast 
 ---
-![Forecast](images/page 3.png)
+![Page 2 - Forecast](images/page 3.png)
 
 This page contains **two forecasting models**, implemented directly within Power BI using **R and Python scripts**:
 
