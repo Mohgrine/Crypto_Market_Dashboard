@@ -28,9 +28,9 @@ This project presents an interactive **Power BI dashboard** for analyzing and fo
 
 ## 🖼️ Dashboard Pages Overview
 
-### 📄 Page 1: [To Be Added]
+### 📄 Page 1: Market overview
 
-This page will be described once the visual is uploaded.
+![Page 1 - Pricing Overview](images/page1.png)
 
 ---
 
@@ -57,7 +57,7 @@ This page presents historical cryptocurrency pricing and volume data. Key featur
 ### 📄 Page 3: Price Forecasting with ML & Statistical Models
 
 | Market Cap Forecast | BTC Price Forecast |
-| ![ARIMA Forecast](images/page3_marketcap.png)
+![ARIMA Forecast](images/page3.png)
 
 This page contains **two forecasting models**, implemented directly within Power BI using **R and Python scripts**:
 
